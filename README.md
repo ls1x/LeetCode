@@ -7,4 +7,4 @@ Each solution was crafted solely by me — no external references, no shortcuts.
 Feel free to explore, learn, or compare approaches.
 
 If you have any questions or just want to connect, reach out:
-- LinkedIn: https://www.linkedin.com/in/lucas-amorim-525500212/
+- LinkedIn: https://www.linkedin.com/in/ls1x
