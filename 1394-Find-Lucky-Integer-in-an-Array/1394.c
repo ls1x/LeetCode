@@ -141,8 +141,12 @@ int main (int argc, char * argv[]){
                 exit(EXIT_FAILURE);
             }
         }
+        
+        // Finding Lucky Number
         int LuckyNumber = 0;
         LuckyNumber = findLucky(arr, arrSize);
+        
+        // Freeing memory and ending process
         free(arr);
         arr = NULL;
         return 0;
